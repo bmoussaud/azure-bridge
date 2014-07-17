@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/Views/Shared/Site.Master" Inherits="System.Web.Mvc.ViewPage" %>
 
 <asp:Content ID="Title" ContentPlaceHolderID="TitleContent" runat="server">
-    NerdDinner [With Azure]
+    NerdDinner [With Cellenza]
 </asp:Content>
 
 <asp:Content ID="Masthead" ContentPlaceHolderID="MastheadContent" runat="server">
